@@ -2,7 +2,7 @@
 <h3 align="center">Junior Full Stack Developer. Aviation & Rocket Modeling enthusiast.</h3>
 
 
-- 🔭 I’m currently working on **Israel National Lottery Statistic (Private Repo)**
+- 🔭 I’m currently working on **Israel National Lottery Statistic Website (Private Repo)**
 
 - 🌱 I’m currently learning **React Native, Three.JS**
 
